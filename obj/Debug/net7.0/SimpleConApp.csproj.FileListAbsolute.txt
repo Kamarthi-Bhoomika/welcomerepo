@@ -1,0 +1,14 @@
+D:\Mphasis\.net\recap\SimpleConApp\bin\Debug\net7.0\SimpleConApp.exe
+D:\Mphasis\.net\recap\SimpleConApp\bin\Debug\net7.0\SimpleConApp.deps.json
+D:\Mphasis\.net\recap\SimpleConApp\bin\Debug\net7.0\SimpleConApp.runtimeconfig.json
+D:\Mphasis\.net\recap\SimpleConApp\bin\Debug\net7.0\SimpleConApp.dll
+D:\Mphasis\.net\recap\SimpleConApp\bin\Debug\net7.0\SimpleConApp.pdb
+D:\Mphasis\.net\recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\.net\recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.AssemblyInfoInputs.cache
+D:\Mphasis\.net\recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.AssemblyInfo.cs
+D:\Mphasis\.net\recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.dll
+D:\Mphasis\.net\recap\SimpleConApp\obj\Debug\net7.0\refint\SimpleConApp.dll
+D:\Mphasis\.net\recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.pdb
+D:\Mphasis\.net\recap\SimpleConApp\obj\Debug\net7.0\SimpleConApp.genruntimeconfig.cache
+D:\Mphasis\.net\recap\SimpleConApp\obj\Debug\net7.0\ref\SimpleConApp.dll
